@@ -1,0 +1,36 @@
+dependencies: \
+  /Volumes/Bruno/Dropbox/Dropbox/Desenvolvimento/CalendarAPI/node_modules/react-native/Libraries/Text/TextInput/RCTBaseTextInputView.m \
+  /Volumes/Bruno/Dropbox/Dropbox/Desenvolvimento/CalendarAPI/node_modules/react-native/Libraries/Text/TextInput/RCTBaseTextInputView.h \
+  /Volumes/Bruno/Dropbox/Dropbox/Desenvolvimento/CalendarAPI/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTView.h \
+  /Volumes/Bruno/Dropbox/Dropbox/Desenvolvimento/CalendarAPI/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTBorderStyle.h \
+  /Volumes/Bruno/Dropbox/Dropbox/Desenvolvimento/CalendarAPI/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTComponent.h \
+  /Volumes/Bruno/Dropbox/Dropbox/Desenvolvimento/CalendarAPI/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTPointerEvents.h \
+  /Volumes/Bruno/Dropbox/Dropbox/Desenvolvimento/CalendarAPI/node_modules/react-native/Libraries/Text/TextInput/RCTBackedTextInputDelegate.h \
+  /Volumes/Bruno/Dropbox/Dropbox/Desenvolvimento/CalendarAPI/node_modules/react-native/Libraries/Text/TextInput/RCTBackedTextInputViewProtocol.h \
+  /Volumes/Bruno/Dropbox/Dropbox/Desenvolvimento/CalendarAPI/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTAccessibilityManager.h \
+  /Volumes/Bruno/Dropbox/Dropbox/Desenvolvimento/CalendarAPI/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTBridge.h \
+  /Volumes/Bruno/Dropbox/Dropbox/Desenvolvimento/CalendarAPI/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTBridgeDelegate.h \
+  /Volumes/Bruno/Dropbox/Dropbox/Desenvolvimento/CalendarAPI/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTJavaScriptLoader.h \
+  /Volumes/Bruno/Dropbox/Dropbox/Desenvolvimento/CalendarAPI/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTDefines.h \
+  /Volumes/Bruno/Dropbox/Dropbox/Desenvolvimento/CalendarAPI/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTBridgeModule.h \
+  /Volumes/Bruno/Dropbox/Dropbox/Desenvolvimento/CalendarAPI/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTFrameUpdate.h \
+  /Volumes/Bruno/Dropbox/Dropbox/Desenvolvimento/CalendarAPI/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTInvalidating.h \
+  /Volumes/Bruno/Dropbox/Dropbox/Desenvolvimento/CalendarAPI/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTConvert.h \
+  /Volumes/Bruno/Dropbox/Dropbox/Desenvolvimento/CalendarAPI/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTAnimationType.h \
+  /Volumes/Bruno/Dropbox/Dropbox/Desenvolvimento/CalendarAPI/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTLog.h \
+  /Volumes/Bruno/Dropbox/Dropbox/Desenvolvimento/CalendarAPI/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTAssert.h \
+  /Volumes/Bruno/Dropbox/Dropbox/Desenvolvimento/CalendarAPI/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTUtils.h \
+  /Volumes/Bruno/Dropbox/Dropbox/Desenvolvimento/CalendarAPI/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTTextDecorationLineType.h \
+  /Volumes/Bruno/Dropbox/Dropbox/Desenvolvimento/CalendarAPI/ios/build/Build/Products/Debug-iphonesimulator/include/yoga/Yoga.h \
+  /Volumes/Bruno/Dropbox/Dropbox/Desenvolvimento/CalendarAPI/ios/build/Build/Products/Debug-iphonesimulator/include/yoga/YGEnums.h \
+  /Volumes/Bruno/Dropbox/Dropbox/Desenvolvimento/CalendarAPI/ios/build/Build/Products/Debug-iphonesimulator/include/yoga/YGMacros.h \
+  /Volumes/Bruno/Dropbox/Dropbox/Desenvolvimento/CalendarAPI/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTEventDispatcher.h \
+  /Volumes/Bruno/Dropbox/Dropbox/Desenvolvimento/CalendarAPI/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTUIManager.h \
+  /Volumes/Bruno/Dropbox/Dropbox/Desenvolvimento/CalendarAPI/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTRootView.h \
+  /Volumes/Bruno/Dropbox/Dropbox/Desenvolvimento/CalendarAPI/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTViewManager.h \
+  /Volumes/Bruno/Dropbox/Dropbox/Desenvolvimento/CalendarAPI/ios/build/Build/Products/Debug-iphonesimulator/include/React/UIView+React.h \
+  /Volumes/Bruno/Dropbox/Dropbox/Desenvolvimento/CalendarAPI/node_modules/react-native/Libraries/Text/TextInput/RCTInputAccessoryView.h \
+  /Volumes/Bruno/Dropbox/Dropbox/Desenvolvimento/CalendarAPI/node_modules/react-native/Libraries/Text/TextInput/RCTInputAccessoryViewContent.h \
+  /Volumes/Bruno/Dropbox/Dropbox/Desenvolvimento/CalendarAPI/node_modules/react-native/Libraries/Text/RCTTextAttributes.h \
+  /Volumes/Bruno/Dropbox/Dropbox/Desenvolvimento/CalendarAPI/node_modules/react-native/Libraries/Text/RCTTextTransform.h \
+  /Volumes/Bruno/Dropbox/Dropbox/Desenvolvimento/CalendarAPI/node_modules/react-native/Libraries/Text/TextInput/RCTTextSelection.h
